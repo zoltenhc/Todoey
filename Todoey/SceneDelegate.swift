@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Todoey
 //
-//  Created by Zoltán Gál on 2022. 02. 24..
+//  Created by Zoltán Gál
 //
 
 import UIKit
